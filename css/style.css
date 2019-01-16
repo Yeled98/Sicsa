@@ -1,0 +1,44 @@
+.logo-nav{
+  width: 30%;
+  padding-left: 2%;
+  padding-top: 2%;
+}
+.logo-side-nav{
+  width: 40%;
+  height: 40%;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: #aed581;
+}
+main {
+    flex: 1 0 auto;
+}
+.sicsa{
+  font-weight: bold;
+  font-family: 'Roboto Slab', serif;
+  color: #003d7f;
+}
+p{
+  font-size: 20px;
+  font-family: 'Signika', sans-serif;
+}
+.mip{
+  padding-top: 2%;
+}
+.side-nav{
+  background-color: #aed581;
+}
+.pasos{
+  font-size: 25px;
+  font-family: 'Signika', sans-serif;
+}
+.mano{
+  height: 415px!important;
+}
+li{
+  font-size: 20px;
+  font-family: 'Signika', sans-serif;
+}
