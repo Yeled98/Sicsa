@@ -37,7 +37,7 @@ elseif ($plaga = 11) {
   $plaga = "Otros";
 }
 $mensaje = $_POST['mensaje'];
-$destinatario = "yeledsubim@gmail.com";
+$destinatario = "soysicsamexico@gmail.com";
 $asunto = "Contacto desde la web";
 $carta = "De: $nombre \n";
 $carta .= "Telefono: $telefono \n";

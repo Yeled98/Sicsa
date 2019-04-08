@@ -60,8 +60,7 @@
                       <img src="img/gmail.png" alt="gmail" class="circle responsive-img">
                     </div>
                     <div class="col s9">
-                      <a href="mailto:sicsamanejointegradodeplagas@gmail.com" class="blue-text accent-2">sicsamanejointegrado
-                        deplagas@gmail.com</a>
+                      <a href="mailto:soysicsamexico@gmail.com" class="blue-text accent-2">soysicsamexico@gmail.com</a>
                     </div>
                   </div>
                   <div class="row">
@@ -147,8 +146,7 @@
                       <img src="img/gmail.png" alt="gmail" class="circle responsive-img">
                     </div>
                     <div class="col l9">
-                      <a href="mailto:sicsamanejointegradodeplagas@gmail.com" class="blue-text accent-2">sicsamanejointegrado
-                        deplagas@gmail.com</a>
+                      <a href="mailto:soysicsamexico@gmail.com" class="blue-text accent-2">soysicsamexico@gmail.com</a>
                     </div>
                   </div>
                   <div class="row">
