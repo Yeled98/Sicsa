@@ -2,6 +2,7 @@
   width: 30%;
   padding-left: 2%;
   padding-top: 2%;
+  background-color: white;
 }
 .logo-side-nav{
   width: 40%;
@@ -11,7 +12,7 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-    background-color: #aed581;
+    background-color: white;
 }
 main {
     flex: 1 0 auto;
@@ -36,7 +37,8 @@ p{
   font-family: 'Signika', sans-serif;
 }
 .mano{
-  height: 415px!important;
+  height: 350px!important;
+  width: 780px!important;
 }
 li{
   font-size: 20px;

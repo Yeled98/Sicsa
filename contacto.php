@@ -22,7 +22,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     </head>
     <body>
-      <nav class="light-green">
+      <nav class="blue darken-4">
         <div class="nav-wrapper">
           <a href="index.php" class="brand-logo hide-on-med-and-down"><img src="img/sicsa.png" alt="Sicsa" class="logo-nav"></a>
           <a href="index.php" class="brand-logo center hide-on-large-only"><img src="img/sicsa.png" alt="Sicsa" class="logo-side-nav"></a>
@@ -53,7 +53,7 @@
         <div class="section white">
           <div class="row hide-on-large-only">
             <div class="col s10 offset-s1">
-              <div class="col s10 offset-s1 card hoverable">
+              <div class="col s10 offset-s1 card blue accent-1 hoverable">
                 <div class="card-content">
                   <div class="row">
                     <div class="col s3">
@@ -179,7 +179,7 @@
           <div class="parallax"><img src="img/familita.jpg"></div>
         </div>
       </main>
-      <footer class="page-footer light-green">
+      <footer class="page-footer blue darken-4">
           <div class="container">
             <div class="row">
               <div class="col l6 s12">

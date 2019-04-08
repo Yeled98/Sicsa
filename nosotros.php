@@ -22,7 +22,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     </head>
     <body>
-      <nav class="light-green">
+      <nav class="blue darken-4">
         <div class="nav-wrapper">
           <a href="index.php" class="brand-logo hide-on-med-and-down"><img src="img/sicsa.png" alt="Sicsa" class="logo-nav"></a>
           <a href="index.php" class="brand-logo center hide-on-large-only"><img src="img/sicsa.png" alt="Sicsa" class="logo-side-nav"></a>
@@ -46,9 +46,9 @@
       <main>
         <div class="row">
           <div class="col l8 offset-l2 s10 offset-s1">
-            <div class="card hoverable">
+            <div class="card blue accent-1 hoverable">
               <div class="card-image">
-                <img src="img/casa.jpg">
+                <img src="img/DSC_0051.jpg">
                 <h3 class="card-title">Nosotros</h3>
               </div>
               <div class="card-content">
@@ -65,7 +65,7 @@
         </div>
         <div class="row">
           <div class="col l8 offset-l2 s10 offset-s1">
-            <div class="card hoverable">
+            <div class="card blue accent-1 hoverable">
               <h3 class="cyan darken-3 white-text">Nuestros Clientes</h3>
               <div class="row">
                 <div class="col l2 offset-l1 s10 offset-s1">
@@ -131,7 +131,7 @@
           </div>
         </div>
       </main>
-      <footer class="page-footer light-green">
+      <footer class="page-footer blue darken-4">
           <div class="container">
             <div class="row">
               <div class="col l6 s12">

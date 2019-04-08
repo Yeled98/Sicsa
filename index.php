@@ -28,7 +28,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     </head>
     <body>
-      <nav class="light-green">
+      <nav class="blue darken-4">
         <div class="nav-wrapper">
           <a href="index.php" class="brand-logo hide-on-med-and-down"><img src="img/sicsa.png" alt="Sicsa" class="logo-nav"></a>
           <a href="index.php" class="brand-logo center hide-on-large-only"><img src="img/sicsa.png" alt="Sicsa" class="logo-side-nav"></a>
@@ -85,7 +85,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col l8 offset-l2 s10 offset-s1 card hoverable">
+          <div class="col l8 offset-l2 s10 offset-s1 card hoverable blue accent-1">
             <div class="card-content">
               <h1 class="sicsa">Sicsa</h1>
               <p>En Sicsa somos especializtas en el <strong>Manejo Integrado de Plagas</strong>, es por eso que nos hemos establecido en la <strong>Ciudad de México</strong> como una de las compañías líderes en el  <b>Manejo Integrado de Plagas</b>.</p>
@@ -102,7 +102,7 @@
           </div>
         </div>
       </main>
-      <footer class="page-footer light-green">
+      <footer class="page-footer blue darken-4">
           <div class="container">
             <div class="row">
               <div class="col l6 s12">
