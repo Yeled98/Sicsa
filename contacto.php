@@ -44,16 +44,14 @@
         </div>
       </nav>
       <main>
-        <div class="parallax-container hide-on-med-and-down">
-          <div class="parallax"><img src="img/llamada.jpg"></div>
+        <div class="parallax-container">
+          <div class="parallax"><img class="responsive-img" src="img/llamada.jpg"></div>
         </div>
-        <div class="parallax-container hide-on-large-only">
-          <div class="parallax"><img src="img/llamadita.jpg"></div>
         </div>
         <div class="section white">
           <div class="row hide-on-large-only">
             <div class="col s10 offset-s1">
-              <div class="col s10 offset-s1 card blue accent-1 hoverable">
+              <div class="col s10 offset-s1 card hoverable">
                 <div class="card-content">
                   <div class="row">
                     <div class="col s3">
@@ -68,7 +66,7 @@
                       <img src="img/whatsapp.png" alt="whatsapp" class="circle responsive-img">
                     </div>
                     <div class="col s9">
-                      <a href="tel:+525574000017" class="blue-text accent-2">+52 5574000017</a>
+                      <a href="tel:+5574000017" class="blue-text accent-2">5574000017</a>
                     </div>
                   </div>
                   <div class="row">
@@ -146,7 +144,7 @@
                       <img src="img/gmail.png" alt="gmail" class="circle responsive-img">
                     </div>
                     <div class="col l9">
-                      <a href="mailto:soysicsamexico@gmail.com" class="blue-text accent-2">soysicsamexico@gmail.com</a>
+                      <a href="mailto:soysicsamexico@gmail.com" class="gmail blue-text accent-2">soysicsamexico@gmail.com</a>
                     </div>
                   </div>
                   <div class="row">
@@ -154,7 +152,7 @@
                       <img src="img/whatsapp.png" alt="whatsapp" class="circle responsive-img">
                     </div>
                     <div class="col l9">
-                      <a href="tel:+525574000017" class="blue-text accent-2">+52 5574000017</a>
+                      <a href="tel:5574000017" class="blue-text accent-2">5574000017</a>
                     </div>
                   </div>
                   <div class="row">
