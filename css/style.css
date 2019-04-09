@@ -1,12 +1,11 @@
 .logo-nav{
-  width: 30%;
-  padding-left: 2%;
-  padding-top: 2%;
+  width: 34%;
+  padding: 2%;
   background-color: white;
 }
 .logo-side-nav{
-  width: 40%;
-  height: 40%;
+  width: 81%;
+  padding: 1%;
   background-color: white;
 }
 body {
