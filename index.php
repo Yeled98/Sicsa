@@ -101,16 +101,7 @@
             <a href="contacto.php">Contáctanos</a>
           </div>
         </div>
-        <div class="fixed-action-btn">
-  <a class="btn-floating btn-large red">
-    <i class="large material-icons">mode_edit</i>
-  </a>
-  <ul>
-      <li><a class="btn-floating white"><img src="img/gmail.png" alt="gmail" class="circle responsive-img"></a></li>
-      <li><a class="btn-floating white"><img src="img/whatsapp.png" alt="whatsapp" class="circle responsive-img"></li>
-      <li><a class="btn-floating white"><img src="img/telefono.png" alt="oficina" class="circle responsive-img"></a></li>
-    </ul>
-  </div>
+        <?php include_once 'funcion-contacto.php';?>
       </main>
       <footer class="page-footer blue darken-4">
           <div class="container">
@@ -144,11 +135,5 @@
       $('.slider').slider();
       });
       </script>
-      <script type="text/javascript">document.addEventListener('DOMContentLoaded', function() {
-      var elems = document.querySelectorAll('.fixed-action-btn');
-      var instances = M.FloatingActionButton.init(elems, {
-        direction: 'left'
-        });
-      });</script>
     </body>
   </html>

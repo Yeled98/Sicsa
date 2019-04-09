@@ -70,6 +70,7 @@
             </div>
           </div>
         </div>
+        <?php include_once 'funcion-contacto.php';?>
       </main>
       <footer class="page-footer blue darken-4">
           <div class="container">
